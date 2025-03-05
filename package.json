@@ -3,7 +3,7 @@
   "author": {
     "name": "Mansoor",
     "email": "mansooranwary50@gmail.com",
-    "url": ""
+    "url": "https://github.com/MansoorAnwari/next-js-dashboard.git"
   },
   "scripts": {
     "build": "next build",
